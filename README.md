@@ -9,7 +9,7 @@ The project began with exploratory data analysis, where our team visualized tren
 **💻 Modeling Process**
 I led the modeling phase using R, applying advanced time series techniques. To ensure data stationarity and readiness for forecasting, I conducted ADF and KPSS tests, examined ACF/PACF plots, and used box plots to assess white noise. I applied log transformations and differencing where necessary and developed both manual and auto ARIMA models. To enhance seasonal accuracy, I implemented harmonic regression with Fourier terms, which effectively captured both long-term trends and regular fluctuations in sales.
 
-![image](https://github.com/Fauziakhangs/Time-Series/blob/38231082c61504b78a9212fc335652071894f892/Time%20Series.PNG)
+![image](https://github.com/Fauziakhangs/Time-Series/blob/e5e27ba1f9e98bfb466c77dec830856da2265897/Time%20Series.PNG)
 
 **🔍 Model Evaluation & Forecasting**
 Using residual diagnostics and backtesting, I refined model performance to ensure reliability. The final forecast plot showed strong alignment with actual sales trends, highlighting predictable seasonal variations and a clear upward trajectory. The model provides a solid foundation for future sales forecasting, enabling more accurate planning and decision-making.
