@@ -1,8 +1,6 @@
 # Time-Series and Forecasting
 
-**Time Series and Forecasting Store Sales**
-
-**📌 Project Summary**
+**📌 Overview**
 This project focused on forecasting store sales for a grocery chain in Ecuador using historical data from 2013 to 2017. The goal was to predict future sales trends and analyze the impact of promotions to support inventory management and marketing decisions. By uncovering sales patterns and identifying top-performing stores and product categories, the analysis provided valuable business insights.
 
 **📊 Data Exploration**
@@ -16,7 +14,7 @@ I led the modeling phase using R, applying advanced time series techniques. To e
 **🔍 Model Evaluation & Forecasting**
 Using residual diagnostics and backtesting, I refined model performance to ensure reliability. The final forecast plot showed strong alignment with actual sales trends, highlighting predictable seasonal variations and a clear upward trajectory. The model provides a solid foundation for future sales forecasting, enabling more accurate planning and decision-making.
 
-![image]()
+![image](https://github.com/Fauziakhangs/Time-Series/blob/622b62e00d317605a4c11ea544a3ba8d1b9ffd52/Forecasting.PNG)
 
 **✅ Outcome**
 
