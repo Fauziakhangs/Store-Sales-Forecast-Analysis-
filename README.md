@@ -2,21 +2,22 @@
 
 **Time Series and Forecasting Store Sales**
 
-This store sales dataset is taken from a grocery store in Ecuador spanning from 2013 to 2017. The primary goal was  to forecast future sales using time series analysis techniques. We explored the impact of promotions on sales and identified top-performing stores and product categories. This analysis is vital for stakeholders to make informed decisions regarding inventory management and promotional strategies.
+**📌 Project Summary**
+This project focused on forecasting store sales for a grocery chain in Ecuador using historical data from 2013 to 2017. The goal was to predict future sales trends and analyze the impact of promotions to support inventory management and marketing decisions. By uncovering sales patterns and identifying top-performing stores and product categories, the analysis provided valuable business insights.
 
-. Initially, our team explored multiple datasets and visualized trends using bar charts, scatter plots, and QQ plots 📊. 
+**📊 Data Exploration**
+The project began with exploratory data analysis, where our team visualized trends using bar charts, scatter plots, and QQ plots to understand data distribution and seasonality. After selecting a more consistent and informative dataset, we analyzed promotion effects and sales behavior across various stores and product types.
 
-After switching to a more robust dataset, I led the modeling process using R 💻 with tools like ACF/PACF, KPSS/ADF tests, and Box plots to assess stationarity and white noise. I applied techniques like log transformations, differencing, and constructed both manual and auto ARIMA models 🔍. Residual analysis and backtesting helped refine model performance. 
+**💻 Modeling Process**
+I led the modeling phase using R, applying advanced time series techniques. To ensure data stationarity and readiness for forecasting, I conducted ADF and KPSS tests, examined ACF/PACF plots, and used box plots to assess white noise. I applied log transformations and differencing where necessary and developed both manual and auto ARIMA models. To enhance seasonal accuracy, I implemented harmonic regression with Fourier terms, which effectively captured both long-term trends and regular fluctuations in sales.
 
 ![image](https://github.com/Fauziakhangs/Time-Series/blob/38231082c61504b78a9212fc335652071894f892/Time%20Series.PNG)
 
+**🔍 Model Evaluation & Forecasting**
+Using residual diagnostics and backtesting, I refined model performance to ensure reliability. The final forecast plot showed strong alignment with actual sales trends, highlighting predictable seasonal variations and a clear upward trajectory. The model provides a solid foundation for future sales forecasting, enabling more accurate planning and decision-making.
 
+![image]()
 
-The forecasted plot of the harmonic regression with Arima  model highlights both the overall trend and the seasonal  fluctuations. This model with Fourier terms predicts the 
- seasonal patterns very well by capturing long-term upward  trends and regular fluctuations. However, this model can be  used for making future predictions for improved grocery
+**✅ Outcome**
 
-
-
-**Overview**
-
-This project deepened my skills in forecasting, model diagnostics, and collaborative project management 🤝.  This project has significantly enriched my grasp and application of time series techniques and concepts. I've developed the ability to analyze and construct models for stationary data, employing various transformations and effectively implementing different ARIMA models..
+This project significantly strengthened my skills in time series forecasting, model diagnostics, and collaborative project management. I gained hands-on experience with transforming non-stationary data, constructing and validating ARIMA models, and generating forecasts that are both interpretable and actionable. The insights from this project can help optimize sales strategies and enhance data-driven decision-making for retail businesses. 
