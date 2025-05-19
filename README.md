@@ -6,7 +6,7 @@ This project focused on forecasting store sales for a grocery chain in Ecuador u
 **📊 Data Exploration**
 The project began with exploratory data analysis, where our team visualized trends using bar charts, scatter plots, and QQ plots to understand data distribution and seasonality. After selecting a more consistent and informative dataset, we analyzed promotion effects and sales behavior across various stores and product types.
 
-**💻 Modeling Process**
+**💻 Forecasting Approach**
 I led the modeling phase using R, applying advanced time series techniques. To ensure data stationarity and readiness for forecasting, I conducted ADF and KPSS tests, examined ACF/PACF plots, and used box plots to assess white noise. I applied log transformations and differencing where necessary and developed both manual and auto ARIMA models. To enhance seasonal accuracy, I implemented harmonic regression with Fourier terms, which effectively captured both long-term trends and regular fluctuations in sales.
 
 ![image](https://github.com/Fauziakhangs/Time-Series/blob/e5e27ba1f9e98bfb466c77dec830856da2265897/Time%20Series.PNG)
