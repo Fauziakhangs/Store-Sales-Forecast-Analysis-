@@ -1,10 +1,11 @@
 # Time-Series
+# This project focused on building an accurate time series forecasting 📈 model for retail store sales using the Store Sales Forecast Dataset 🛒
 
 **Time Series and Forecasting Store Sales**
 
 This store sales dataset is taken from a grocery store in Ecuador spanning from 2013 to 2017. The primary goal was  to forecast future sales using time series analysis techniques. We explored the impact of promotions on sales and identified top-performing stores and product categories. This analysis is vital for stakeholders to make informed decisions regarding inventory management and promotional strategies.
 
-This project focused on building an accurate time series forecasting 📈 model for retail store sales using the Store Sales Forecast Dataset 🛒. Initially, our team explored multiple datasets and visualized trends using bar charts, scatter plots, and QQ plots 📊. 
+. Initially, our team explored multiple datasets and visualized trends using bar charts, scatter plots, and QQ plots 📊. 
 
 After switching to a more robust dataset, I led the modeling process using R 💻 with tools like ACF/PACF, KPSS/ADF tests, and Box plots to assess stationarity and white noise. I applied techniques like log transformations, differencing, and constructed both manual and auto ARIMA models 🔍. Residual analysis and backtesting helped refine model performance. 
 
