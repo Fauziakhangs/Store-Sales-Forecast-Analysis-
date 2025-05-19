@@ -1,5 +1,4 @@
-# Time-Series
-## This project focused on building an accurate time series forecasting 📈 model for retail store sales using the Store Sales Forecast Dataset 🛒
+# Time-Series and Forecasting
 
 **Time Series and Forecasting Store Sales**
 
