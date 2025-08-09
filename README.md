@@ -12,7 +12,7 @@ I led the modeling phase using R, applying advanced time series techniques. To e
 ![image](https://github.com/Fauziakhangs/Time-Series/blob/e5e27ba1f9e98bfb466c77dec830856da2265897/Time%20Series.PNG)
 
 **🔍 Model Evaluation & Forecasting**
-Using residual diagnostics and backtesting, I refined model performance to ensure reliability. The final forecast plot showed strong alignment with actual sales trends, highlighting predictable seasonal variations and a clear upward trajectory. The model provides a solid foundation for future sales forecasting, enabling more accurate planning and decision-making.
+Using residual diagnostics and backtesting, I refined model performance to ensure reliability. The final forecast plot showed strong alignment with actual sales trends, highlighting predictable seasonal variations and a clear upward trajectory. The model provides a solid foundation for future sales forecasting, enabling more accurate planning and decision-making..
 
 ![image](https://github.com/Fauziakhangs/Time-Series/blob/c617a88cde907c51e67212d6089c7c89f40f0ad7/Forecasting.PNG)
 
