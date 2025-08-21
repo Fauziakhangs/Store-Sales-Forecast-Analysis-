@@ -18,4 +18,4 @@ Using residual diagnostics and backtesting, I refined model performance to ensur
 
 **✅ Outcome**
 
-This project significantly strengthened my skills in the time forecasting, model diagnostics, and collaborative project management I gained hands-on experience with transforming non-stationary data, constructing and validating ARIMA models, and generating forecasts that are both interpretable and actionable. The insights from this project can help optimize sales strategies and enhance data-driven decision-making fro retail businesses. 
+This project significantly strengthened my skills in the time forecasting, model diagnostics, and collaborative project management I gained hands-on experience with transforming non-stationary data, constructing and validating ARIMA models, and generating forecasts that are both interpretable and actionable. The insights from this project can help optimize sales strategies and enhance data-driven decision-making for retail businesses. 
